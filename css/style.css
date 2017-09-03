@@ -1,0 +1,42 @@
+body{
+  background: #dddddd;
+}
+.logo-img{
+  margin-top: 10px;
+}
+.categori-text{
+  font-size:16px;
+}
+.categori{
+  padding: 2.0rem !important;
+  padding-bottom: 0rem !important;
+}
+.categori-img{
+  width: 60%;
+  margin-left: 20%;
+}
+.main-img{
+  background-color: rgba(0,0,0,0.3);
+  opacity: 0.6;
+}
+.banner-text{
+  margin-top: 10vh;
+}
+.banner-about{
+  margin-top: 8vh ;
+  font-weight: 200;
+}
+.description-img{
+ padding: 10.0rem !important;
+ padding-left: 15% !important;
+ padding-right: 15% !important;
+}
+.description{
+  padding-top: 5% !important;
+ padding-right: 10% !important;
+ text-align: right;
+}
+.description-text{
+  font-size: 17px;
+  font-weight: 200;
+}
